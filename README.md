@@ -1,0 +1,2 @@
+# Telefrank-plugin
+Telefank Server和Telefrank Client都支持插件。这个存储库存储着优质Telefrank插件（包括服务端）。注意本储存库插件除标记Telefrank core plugin以外的都不代表Telefrank官方插件。如果你觉得该存储库存储的插件有些有不当行为，请发一个issues。
